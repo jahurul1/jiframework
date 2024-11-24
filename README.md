@@ -40,9 +40,9 @@ JiFramework is a PHP framework that emphasizes simplicity, security, and perform
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/jiframework.git
+   git clone https://github.com/jahurul1/jiframework.git
    
-2. **Navigate to the Project Directory **
+2. **Navigate to the Project Directory**
 
    ```bash
    cd jiframework
