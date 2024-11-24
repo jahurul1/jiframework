@@ -10,7 +10,6 @@ A lightweight, modular PHP framework designed for building secure and scalable w
 - [Installation](#installation)
 - [Quick Start](#quick-start)
 - [Documentation](#documentation)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
