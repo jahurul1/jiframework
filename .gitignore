@@ -1,0 +1,20 @@
+# Composer
+/vendor/
+
+/.idea/
+/nbproject/
+/.vscode/
+
+# Logs and cache
+logs/
+cache/
+
+# Uploads
+uploads/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
